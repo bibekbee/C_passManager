@@ -94,9 +94,9 @@ void Tejori(){
     printf("*******************************************************************\n\n");
 
     printf("**********************WELCOME TO TEJORI************************\n");
-    printf("       Tejori a simple yet very use full application solution \n");
-    printf("    It is designed as a light weight password management system.  \n");
-    printf("           Using simple encryption mechanism we have developed \n");
+    printf("       Tejori a simple yet very useful application solution \n");
+    printf("    It is designed as a lightweight password management system.  \n");
+    printf("           Using simple encryption mechanism I have developed \n");
     printf("     an application that can safeguard your valuable information\n\n");
     printf("\n");
     printf("             NOTE: Sign up password needs to contain    \n");
