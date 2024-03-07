@@ -5,7 +5,7 @@ You can Add, Update, and Search for credentials with this Application.
 
 Interface:    
 Software --   
-&nbsp&nbspDashboard    
+        Dashboard    
             |     
             |--Sign up      
             |--Login---|      
