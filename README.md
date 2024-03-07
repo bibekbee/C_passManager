@@ -8,8 +8,6 @@ Software --
         Dashboard    
             |     
             |--Sign up      
-            |--Login---|      
-            |--Exit    |-- Add Cred      
-                       |-- Update Cred        
-                       |-- Search Cred
+            |--Login---|  |-- Add Cred --|-- Update Cred --|-- Search Cred   
+            |--Exit    
 
